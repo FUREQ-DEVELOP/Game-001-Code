@@ -24,3 +24,10 @@ Game-001-Programmers
 ## 開発状況
 
 開発準備中。実装は未開始です。
+
+## 利用方法
+
+- 作業は `main` からブランチを作成し、Pull Requestで提案してください。
+- タスクはGitHub Issues / Projectsで管理します。
+- 変更の責務: Game-001-Code。担当Team: `Game-001-Programmers`。
+- 依存関係や開発状況は [DevelopmentDocs](https://github.com/FUREQ-DEVELOP/DevelopmentDocs) を参照してください。
